@@ -1,0 +1,12 @@
+.list-group{
+    width:100%;
+    /* background-color: red; */
+    height:100px;
+}
+ul{
+    list-style-type: none;
+}
+img{
+    width:100px;
+    height:100px;
+}
