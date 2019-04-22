@@ -1,0 +1,16 @@
+{
+  "name": "restapi_grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",    
+    "json":"json-server -w -p 4000 db.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
