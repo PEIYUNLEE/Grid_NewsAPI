@@ -1,5 +1,6 @@
 import $ from "jquery";
 import axios from "axios";
+import '../css/style.css';
 
 const socialNewsURL =
   "https://newsapi.org/v2/everything?q=social&pageSize=6&apiKey=";
